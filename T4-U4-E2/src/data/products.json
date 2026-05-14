@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Cuaderno A4 cuadriculado",
+    "price": 3.5,
+    "category": "papelería"
+  },
+  {
+    "id": 2,
+    "name": "Bolígrafos azul pack 10",
+    "price": 2.99,
+    "category": "papelería"
+  },
+  {
+    "id": 3,
+    "name": "Lápices de grafito HB",
+    "price": 1.5,
+    "category": "papelería"
+  },
+  {
+    "id": 4,
+    "name": "Goma de borrar blanca",
+    "price": 0.8,
+    "category": "papelería"
+  },
+  {
+    "id": 5,
+    "name": "Sacapuntas metálico",
+    "price": 1.2,
+    "category": "papelería"
+  },
+  {
+    "id": 6,
+    "name": "Carpeta archivadora A4",
+    "price": 4.75,
+    "category": "papelería"
+  },
+  {
+    "id": 7,
+    "name": "Rotuladores de colores pack 12",
+    "price": 5.9,
+    "category": "papelería"
+  },
+  {
+    "id": 8,
+    "name": "Regla 30 cm transparente",
+    "price": 1.1,
+    "category": "papelería"
+  }
+]
